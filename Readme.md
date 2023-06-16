@@ -1,1 +1,2 @@
-Codigos basicos de Ruby, com um jogo da forca como projeto final do curso(organização medonha). 
+Basic Ruby code, with a game of hangman as a final project of the course (terrible organization).
+
